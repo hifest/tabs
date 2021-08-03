@@ -15,8 +15,8 @@
 ```javascript
         tabs({
                 tabsContentSelector:'.tabcontent',
-                tabsParentSelector:'.tabheader__items',
-                tabsChildSelector: '.tabheader__item',
+                tabsChildSelector:'.tabheader__item',
+                tabsParentSelector: '.tabheader__items',
                 tabsActiveSelctor:'tabheader__item_active',
 
         })
