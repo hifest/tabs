@@ -22,6 +22,7 @@
         })
 
 ```
+ #### download this file tabsFull.min.css if you will use the layout as shown in the example
 
 ### example layout:
 
@@ -75,3 +76,5 @@
  ```javascript
         import  tabs from './modules/tabs';  // './modules/tabs' -src in which the slider file lies
  ```
+ 
+ 
